@@ -1,4 +1,5 @@
-﻿X08,UNFUNDED CORE POSITION,CORE**,,,,0,,0,,,0,1.25,,,,,
+﻿Account Name/Number,Description,Symbol,Type,Cost Basis Per Share,Cost Basis Total,Current Value,Last Price,Last Price Change,percent-for-color,percent-today,Quantity,scaleEnd,Today's Gain/Loss Dollar,Today's Gain/Loss Percent,TodayDollars,Total Gain/Loss Dollar,Total Gain/Loss Percent
+X08,UNFUNDED CORE POSITION,CORE**,,,,0,,0,,,0,1.25,,,,,
 X08,APPLE INC COM USD0.00001,AAPL,Margin,11.45,7008.62,83697.12,136.76,-0.63,-1.84,-0.46,612,1.25,-385.56,-0.0046,-385.56,76688.5,10.942
 X08,AMERICAN CEN FOCUSED DYNAMIC GROWTH INV,ACFOX,Margin,53.36,9766.03,10685.29,58.38,1.16,8.12,2.03,183.03,1.25,212.31,0.0203,212.31,919.26,0.0941
 X08,AMANA MUTUAL FUND TRUST GROWTH,AMAGX,Margin,26.55,28587.83,62382.61,57.93,0.24,1.68,0.42,1076.862,1.25,258.44,0.0042,258.44,33794.79,1.1821
